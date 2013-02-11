@@ -1,0 +1,18 @@
+[submodule ".vim/bundles/nerdcommenter"]
+	path = .vim/bundles/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule ".vim/bundles/vim-fugative"]
+	path = .vim/bundles/vim-fugative
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule ".vim/bundles/vim-vividchalk"]
+	path = .vim/bundles/vim-vividchalk
+	url = https://github.com/tpope/vim-vividchalk.git
+[submodule ".vim/bundles/syntastic"]
+	path = .vim/bundles/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule ".vim/bundles/nerdtree"]
+	path = .vim/bundles/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule ".vim/bundles/tagbar"]
+	path = .vim/bundles/tagbar
+	url = https://github.com/majutsushi/tagbar.git
