@@ -1,4 +1,6 @@
 call pathogen#infect()
+syntax on
+filetype plugin indent on 
 colorscheme vividchalk
 set shiftwidth=4 softtabstop=4
 set incsearch ignorecase hlsearch
