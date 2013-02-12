@@ -1,18 +1,18 @@
-[submodule ".vim/bundles/nerdcommenter"]
-	path = .vim/bundles/nerdcommenter
+[submodule ".vim/bundle/nerdcommenter"]
+	path = .vim/bundle/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
-[submodule ".vim/bundles/vim-fugative"]
-	path = .vim/bundles/vim-fugative
+[submodule ".vim/bundle/vim-fugative"]
+	path = .vim/bundle/vim-fugative
 	url = https://github.com/tpope/vim-fugitive.git
-[submodule ".vim/bundles/vim-vividchalk"]
-	path = .vim/bundles/vim-vividchalk
+[submodule ".vim/bundle/vim-vividchalk"]
+	path = .vim/bundle/vim-vividchalk
 	url = https://github.com/tpope/vim-vividchalk.git
-[submodule ".vim/bundles/syntastic"]
-	path = .vim/bundles/syntastic
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
-[submodule ".vim/bundles/nerdtree"]
-	path = .vim/bundles/nerdtree
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule ".vim/bundles/tagbar"]
-	path = .vim/bundles/tagbar
+[submodule ".vim/bundle/tagbar"]
+	path = .vim/bundle/tagbar
 	url = https://github.com/majutsushi/tagbar.git
