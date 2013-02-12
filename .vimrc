@@ -12,3 +12,9 @@ set nu
 set modeline
 set ls=2
 syntax on
+map <F3> :bp<CR>
+map <F4> :bn<CR>
+map <F2> :buffers
+map <F8> :NERDTreeToggle<CR>
+map <F9> :TlistToggle<CR>
+
