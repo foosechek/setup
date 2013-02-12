@@ -19,3 +19,6 @@
 [submodule ".vim/bundle/cscope_maps"]
 	path = .vim/bundle/cscope_maps
 	url = https://github.com/chazy/cscope_maps.git
+[submodule ".vim/bundle/taglist.vim"]
+	path = .vim/bundle/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
